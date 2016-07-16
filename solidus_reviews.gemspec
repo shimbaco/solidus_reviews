@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.name        = 'solidus_reviews'
   s.version     = '1.0.0'
   s.summary     = 'Basic review and ratings facility for Solidus'
-  s.authors 	  = ['Paul Callaghan']
+  s.authors 	  = ['Koji Shimba']
   s.description = s.summary
   s.required_ruby_version = '>= 1.9.3'
 
