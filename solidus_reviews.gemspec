@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'spree_reviews'
+  s.name        = 'solidus_reviews'
   s.version     = '1.0.0'
-  s.summary     = 'Basic review and ratings facility for Spree'
+  s.summary     = 'Basic review and ratings facility for Solidus'
   s.authors 	  = ['Paul Callaghan']
   s.description = s.summary
   s.required_ruby_version = '>= 1.9.3'
 
-  s.homepage     = 'https://github.com/spree-contrib/spree-reviews/'
+  s.homepage     = 'https://github.com/shimbaco/solidus_reviews'
 
   s.files        = `git ls-files`.split("\n")
   s.test_files   = `git ls-files -- spec/*`.split("\n")
